@@ -2,23 +2,23 @@
     margin: 10px;
     padding: 0px;
 }
-#wrapper{
+#container{
     width: 950px;
     background-color: silver;
     margin: 0px auto;
     padding: 10px;
 }
-#header{
+#top-nav{
     min-height: 150px;
     background-color: green;
 }
-#navigation{
+#slide-nav{
     min-height: 300px;
     width: 200px;
     background-color: blue;
     display: inline-block;
 }
-#main_content{
+#main{
     min-height: 400px;
     width: 700px;
     background-color: red;
@@ -37,6 +37,6 @@
     min-height: 120px;
     width: 660px;
     background-color: purple;
-    display: inline-b
+    display: inline-block;
 }
 
